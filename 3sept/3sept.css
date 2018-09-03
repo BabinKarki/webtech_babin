@@ -1,0 +1,35 @@
+#main{
+    border: 10px solid;
+    border-width: 10px;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+
+}
+
+#header{
+    border-style: dashed;
+    margin-bottom: 10px;
+}
+
+#left{
+    border-style: solid;
+    width: 48%;
+    float: left;
+
+}
+
+#right{
+    width: 49%;
+    border-style: solid;
+    float: right;
+    background-color: #00FF00;
+}
+
+#container{
+    margin-bottom: 100px;
+}
+
+#footer{
+    border-style: solid;
+}
